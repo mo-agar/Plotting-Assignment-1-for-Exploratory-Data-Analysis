@@ -22,8 +22,7 @@ the <a href="https://archive.ics.uci.edu/ml/datasets/Individual+household+electr
 web site</a>:
 
 <ol>
-<li><b>Date</b>: Date in format dd/mm/yyyy </li>
-<li><b>Time</b>: time in format hh:mm:ss </li>
+<li><b>datetime</b>: Date in format dd/mm/yyyy and time in format hh:mm:ss</li>
 <li><b>Global_active_power</b>: household global minute-averaged active power (in kilowatt) </li>
 <li><b>Global_reactive_power</b>: household global minute-averaged reactive power (in kilowatt) </li>
 <li><b>Voltage</b>: minute-averaged voltage (in volt) </li>
